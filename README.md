@@ -24,11 +24,8 @@
     * IMusicRepository
 * Database
   * I used Myslq Database In this Application.
- 
-* SwaggerLink 
-  * http://16.171.40.158:8080/swagger-ui/index.html#/
-* LinkedIn
-  * https://www.linkedin.com/feed/update/urn:li:activity:7041841734976241664/
+
+
 
 
 ### Project Summery
